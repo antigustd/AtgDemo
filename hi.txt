@@ -1,3 +1,5 @@
 Hi World!
 Hi Fan!
 Hi Master!
+Hi Dev!
+Hi DevNew!
